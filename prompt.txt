@@ -1,0 +1,21 @@
+**Goal & Requirements**  
+- Create a **single-page, mobile-first website** for the “AI Attorney” development team.  
+- Use **Tailwind CSS** for styling (you can use the Tailwind CDN).  
+- The purpose of this page is to attract fanatical talent to join team to change the legal industry.
+- Include a hero section with a video background and a call to action button.
+"The legal industry is broken. We are building the future of law."
+
+**Content**
+- A hero section with a video background and a call to action button.
+- To apply people should fill out a form with their name, email, and a message.
+- The form should be validated with JavaScript.
+- The form should be submitted to the server with JavaScript.
+- The server should send a confirmation email to the applicant.
+- The website should be responsive and look good on all devices.
+- The website should be hosted on Vercel.
+
+**Design**
+- The website should be modern and professional.
+- The website should be easy to use and navigate.
+- The website should be visually appealing and engaging.
+- The website should be consistent in its design and branding.
